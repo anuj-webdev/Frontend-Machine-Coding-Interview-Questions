@@ -4,11 +4,11 @@
 
 1. **Build a Basic HTML Page**: Create a basic HTML page that includes a header, navigation menu, main content section, and a footer.
 
-2. **Responsive Navigation Menu**: Implement a responsive navigation menu that collapses into a hamburger menu on smaller screens using HTML, CSS, and JavaScript/jQuery.
+2. **Responsive Navigation Menu**: Implement a responsive navigation menu that collapses into a hamburger menu on smaller screens using HTML, CSS, and JavaScript/jQuery. [Best Resources to prepare](https://frontendgeek.com/frontend-interview/machine-coding-interview#menu-bar---responsive)
 
-3. **JavaScript Calculator**: Build a simple calculator using HTML, CSS, and JavaScript that can perform basic arithmetic operations (addition, subtraction, multiplication, division).
+3. **JavaScript Calculator**: Build a simple calculator using HTML, CSS, and JavaScript that can perform basic arithmetic operations (addition, subtraction, multiplication, division). [Best Resources to prepare](https://frontendgeek.com/frontend-interview/machine-coding-interview#games)
 
-4. **Image Carousel**: Create an image carousel/slider using HTML, CSS, and JavaScript/jQuery that allows users to navigate through a set of images with next and previous buttons.
+4. **Image Carousel**: Create an image carousel/slider using HTML, CSS, and JavaScript/jQuery that allows users to navigate through a set of images with next and previous buttons. [Best Resources to prepare](https://frontendgeek.com/frontend-interview/machine-coding-interview#image-carousel)
 
 5. **To-Do List Application**: Develop a to-do list web application using HTML, CSS, and JavaScript. Users should be able to add, edit, and delete tasks.
 
@@ -22,7 +22,7 @@
 
 10. **Implement a Drag and Drop Feature**: Create a web page with a drag-and-drop interface using HTML, CSS, and JavaScript. Allow users to drag elements and drop them into designated areas.
 
-11. **Infinite Scroll**: Implement an infinite scroll feature on a web page. Load additional content as the user scrolls down the page using JavaScript and AJAX.
+11. **Infinite Scroll**: Implement an infinite scroll feature on a web page. Load additional content as the user scrolls down the page using JavaScript and AJAX. [Best Resources to prepare](https://frontendgeek.com/frontend-interview/machine-coding-interview#infinite-scroll)
 
 12. **Interactive Map**: Build an interactive map using a mapping library (e.g., Leaflet, Google Maps API) and allow users to search for locations, add markers, and display additional information when clicking on markers.
 
